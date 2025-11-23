@@ -46,7 +46,12 @@ This project demonstrates:
 - Data cleaning skills  
 - Dashboard creation  
 - Analytical storytelling  
-- Use of Excel + Power BI for business insights  
+- Use of Excel + Power BI for business insights
+
+- Files
+- dataset (ECOMM DATA (1).xlsx)
+- dashboard(E COMMERCE REPORT.pbix)
+- dashboard screenshot(dashboard.png)
 
 
  Future Improvements
